@@ -8,4 +8,4 @@ pyt.pytesseract.tesseract_cmd = "C:\\Users\\worka\\AppData\\Local\\Programs\\Tes
 text  = pyt.image_to_string(img)
 
 print(text)
-print("hello aisha")
+print("hello world")
